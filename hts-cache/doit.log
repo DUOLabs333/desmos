@@ -1,8 +1,0 @@
--qwC2%Pns0u2%u0N0%I0p3DaK0c14H0%kf2A99999999%c10#L10000000%f#f -F "Your user agent" -%F "" -%l "en, *" https://www.desmos.com/calculator -O1 "C:\Users\School\Downloads\Desmos\Desmos" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe
-File generated automatically on Sat, 09 Jan 2021 10:09:43, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
