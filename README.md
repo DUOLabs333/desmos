@@ -8,5 +8,5 @@ This is a stripped down version of Desmos' Graphing Calculator you can use offli
 1. Download the repository
 1. Open a terminal
 1. `cd` into the folder where you downloaded it
-1. In the folder, type `python -m http.server`
+1. In the folder, type `python -m http.server --directory www.desmos.com`
 1. Open [http://localhost:8000/calculator](http://localhost:8000/calculator). It should load and you can use it like normal.

@@ -1,7 +1,7 @@
 import requests
 import os
 
-root='./'
+root='www.desmos.com'
 website='https://desmos.com/'
 urls=['calculator','assets/build/calculator_desktop-7b66719f1a2452c0d8e7aa1c09f85534b2121ce2.js','assets/img/touch-icon-192x192.png','favicon.ico']
 
