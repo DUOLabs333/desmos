@@ -11,3 +11,6 @@ for url in urls:
     with open(root+url,'wb') as f:
         print('Capturing '+website+url)
         f.write(requests.get(website+url).content)
+        
+#Move calculator to calculator.html
+os.rename(root+'/calculator',root+'/calculator.html')
