@@ -1,0 +1,2 @@
+#!/bin/bash
+python -m http.server --directory www.desmos.com 8001 --bind 127.0.0.1
