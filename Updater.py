@@ -7,8 +7,8 @@ root='www.desmos.com'
 website='https://desmos.com/'
 urls=['calculator','assets/img/touch-icon-192x192.png','favicon.ico']
 
-js_pattern=r'/assets/build/calculator_desktop-(.*).js'
-css_pattern=r'/assets/build/calculator_desktop-(.*).css'
+js_pattern=r'/assets/build/shared_calculator_desktop-(.*).js'
+css_pattern=r'/assets/build/shared_calculator_desktop-(.*).css'
 
 #Update files
 
